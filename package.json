@@ -1,0 +1,22 @@
+{
+  "name": "deploying",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d deploying"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MANOJ-023/deploying.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MANOJ-023/deploying/issues"
+  },
+  "homepage": "https://github.com/MANOJ-023/deploying#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
